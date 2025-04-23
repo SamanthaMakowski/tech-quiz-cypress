@@ -112,6 +112,8 @@ Due to time constraints and backend issues, full functionality is not shown. How
 
 🔗 [Watch the Loom Demo](https://www.loom.com/share/963c4d39d16e4698921fb52247899e2d?sid=eb822640-27cb-482a-860e-d478f8b1cbde)
 
+🔗 GitHub Repository: [Tech Quiz Cypress Project](https://github.com/SamanthaMakowski/tech-quiz-cypress)
+
 
 ---
 
